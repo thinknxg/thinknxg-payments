@@ -1,10 +1,10 @@
 from . import __version__ as app_version
 
 app_name = "payments"
-app_title = "Payments"
-app_publisher = "Frappe Technologies"
+app_title = "thinknxg Payments"
+app_publisher = "thinknxg Technologies"
 app_description = "Payments app for frappe"
-app_email = "hello@frappe.io"
+app_email = "sales@kreatao.com"
 app_license = "MIT"
 
 # Includes in <head>
